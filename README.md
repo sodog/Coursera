@@ -1,4 +1,9 @@
 # Coursera
-All Courses, Certifications and Projects completed 
+All Courses, Specializations and Projects completed 
 
 Courses:
+
+
+
+
+Specializations:
