@@ -6,8 +6,8 @@ Courses:
 
 
 
-Specializations:
-  Web Design 
+Specializations:</br>
+  Web Design</br>
     Responsive Website Dev and Design @ Uni of London </br>
         Responsive Website Basics: Code with HTML, CSS, and JS</br>
         Responsive Web Design</br>
