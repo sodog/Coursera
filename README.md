@@ -9,7 +9,7 @@ Courses:
 Specializations:
   Web Design 
     Responsive Website Dev and Design @ Uni of London </br>
-       <space><space>Responsive Website Basics: Code with HTML, CSS, and JS</br>
+        Responsive Website Basics: Code with HTML, CSS, and JS</br>
         Responsive Web Design</br>
         Introduction to Meteor.js Development</br>
         Web Application Development with JavaScript and MongoDB</br>
