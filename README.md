@@ -30,7 +30,7 @@ New List of Courses
 Started on October 31st 2020
 
 
-Excel Skills for Business Specialization		
+Excel Skills for Business Specialization /
 Excel Skills for Business: Essentials		
 Excel Skills for Business: Intermediate I		
 Excel Skills for Business: Intermediate II		
