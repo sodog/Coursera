@@ -36,14 +36,15 @@ Excel Skills for Business: Intermediate I </br>
 Excel Skills for Business: Intermediate II </br>		
 Excel Skills for Business: Advanced	 </br>	
 		
+	
+		
+Learn SQL Basics for Data Science Specialization. </br>		
+SQL for Data Science @ by University of California, Davis </br>		
+Data Wrangling, Analysis and AB Testing with SQL	 </br>	
+Distributed Computing with Spark SQL		 </br>
+SQL for Data Science Capstone Project		 </br>
 		
 		
-		
-Learn SQL Basics for Data Science Specialization.		
-SQL for Data Science @ by University of California, Davis		
-Data Wrangling, Analysis and AB Testing with SQL		
-Distributed Computing with Spark SQL		
-SQL for Data Science Capstone Project		
 		
 Data Science: Foundations using R Specialization		
 The Data Scientist’s Toolbox		
