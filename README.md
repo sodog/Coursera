@@ -46,12 +46,14 @@ SQL for Data Science Capstone Project		 </br>
 		
 		
 		
-Data Science: Foundations using R Specialization		
-The Data Scientist’s Toolbox		
-R Programming		
-Getting and Cleaning Data		
-Exploratory Data Analysis		
-Reproducible Research		
+Data Science: Foundations using R Specialization </br>		
+The Data Scientist’s Toolbox	 </br>	
+R Programming		 </br>
+Getting and Cleaning Data	 </br>	
+Exploratory Data Analysis </br>		
+Reproducible Research	 </br>	
+		
+		
 		
 Statistics with R Specialization		
 Introduction to Probability and Data with R		
