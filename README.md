@@ -170,10 +170,21 @@ Introduction to Graph Theory
 Number Theory and Cryptography		
 Delivery Problem 		
 		
+		
+		
+		
+		
+		
+		
 Mathematics for Machine learning Specialization		
 Mathematics for Machine Learning: Linear Algebra 		
 Mathematics for Machine Learning: Multivariate Calculus		
 Mathematics for Machine Learning: PCA		
+		
+		
+		
+		
+		
 		
 Data Science at Scale Specialization @ university of Washington		
 Data Manipulation at Scale: Systems and Algorithms		
@@ -181,24 +192,44 @@ Practical Predictive Analytics: Models and Methods
 Communicating Data Science Results		
 Data Science at Scale - Capstone Project		
 		
+		
+		
+		
+		
+		
 Data Mining Specialization		
 Data Visualization		
 Text Retrieval and Search Engines		
 Text Mining and Analytics		
 Pattern Discovery in Data Mining		
 Cluster Analysis in Data Mining		
-Data Mining Project		
+Data Mining Project		</br>
+		
+		
+		
+		
+		
 		
 Information Visualization Specialization		
 Information Visualization: Foundations		
 Information Visualization: Applied Perception		
 Information Visualization: Programming with D3.js		
-Information Visualization: Advanced Techniques		
+Information Visualization: Advanced Techniques		</br>
+		
+		
+		
+		
+		
 		
 Modern Big Data Analysis with SQL Specialization		
 Foundations for Big Data Analysis with SQL		
 Analyzing Big Data with SQL		
-Managing Big Data in Clusters and cloud Storage		
+Managing Big Data in Clusters and cloud Storage		</br>
+		
+		
+		
+		
+		
 		
 Fundamentals of Computing Specialization		
 An Introduction to Interactive Programming in Python (Part 1)		
@@ -207,7 +238,12 @@ Principles of Computing (Part 1)
 Principles of Computing (Part 2)		
 Algorithmic Thinking (Part 1)		
 Algorithmic Thinking (Part 2)		
-The Fundamentals of Computing Capstone Exam		
+The Fundamentals of Computing Capstone Exam	</br>	
+		
+		
+		
+		
+		
 		
 Analysing: Numeric and digital literacies Specialization		
 Management and financial accounting: Know your numbers 1		
