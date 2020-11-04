@@ -45,17 +45,19 @@ Statistics with R Capstone	 </br>
 		
 		
 		
-Data Science Specialization		
-The Data Scientist’s Toolbox		
-R Programming		
-Getting and Cleaning Data		
-Exploratory Data Analysis		
-Reproducible Research		
-Statistical Inference		
-Regression Models		
-Practical Machine Learning 		
-Developing Data Products 		
-Data Science Capstone		
+Data Science Specialization	 </br>	
+The Data Scientist’s Toolbox	 </br>	
+R Programming		 </br>
+Getting and Cleaning Data	 </br>	
+Exploratory Data Analysis	 </br>	
+Reproducible Research		 </br>
+Statistical Inference		 </br>
+Regression Models		 </br>
+Practical Machine Learning 	 </br>	
+Developing Data Products 	 </br>	
+Data Science Capstone		 </br>
+		
+		
 		
 Mastering Software Development in R Specialization		
 The R Programming Environment		
