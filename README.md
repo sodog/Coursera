@@ -249,7 +249,12 @@ Analysing: Numeric and digital literacies Specialization
 Management and financial accounting: Know your numbers 1		
 Corporate finance: Know your numbers 2		
 Business intelligence and data analytics: Generate insights 		
-Marketing analytics: Know your customers		
+Marketing analytics: Know your customers </br>	
+
+
+
+
+
 		
 Data Engineering with Google Cloud Professional Certificate 		
 Google Cloud Platform Big Data and Machine Learning Fundamentals 		
@@ -257,7 +262,13 @@ Modernizing Data Lakes and Data Warehouses with GCP
 Building Batch Data Pipelines on GCP		
 Building Resilient Streaming Analytics Systems on GCP		
 Smart Analytics, Machine Learning, and AI on GCP		
-Preparing for the Google Cloud Professional Data Engineer Exam 		
+Preparing for the Google Cloud Professional Data Engineer Exam 	</br>	
+		
+		
+		
+		
+		
+		
 		
 Introduction to Computer Science and Programming Specialization		
 Introduction to Computer Programming 		
