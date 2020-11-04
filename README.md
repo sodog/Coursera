@@ -163,12 +163,12 @@ Advanced Speaking and Listening Project 		</br>
 
 
 		
-Introduction to Discrete Mathematics for Computer Science Specialization		
-Mathematical Thinking in Computer Science		
-Combinatorics and Probability 		
-Introduction to Graph Theory		
-Number Theory and Cryptography		
-Delivery Problem 		
+Introduction to Discrete Mathematics for Computer Science Specialization	</br>	
+Mathematical Thinking in Computer Science		</br>
+Combinatorics and Probability 		</br>
+Introduction to Graph Theory		</br>
+Number Theory and Cryptography		</br>
+Delivery Problem 		</br>
 		
 		
 		
