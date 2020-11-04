@@ -59,12 +59,14 @@ Data Science Capstone		 </br>
 		
 		
 		
-Mastering Software Development in R Specialization		
-The R Programming Environment		
-Advanced R Programming		
-Building R Packages		
-Building Data Visualization Tools		
-Mastering Software Development in R Capstone		
+Mastering Software Development in R Specialization	 </br>	
+The R Programming Environment		 </br>
+Advanced R Programming		 </br>
+Building R Packages		 </br>
+Building Data Visualization Tools	 </br>	
+Mastering Software Development in R Capstone	 </br>
+
+
 		
 Data Visualization & Dashboarding with R Specialization		
 Getting Started with Data Visualization in R		
