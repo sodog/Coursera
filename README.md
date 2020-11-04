@@ -36,12 +36,14 @@ Reproducible Research	 </br>
 		
 		
 		
-Statistics with R Specialization		
-Introduction to Probability and Data with R		
-Inferential Statistics		
-Linear Regression and Modeling		
-Bayesian Statistics		
-Statistics with R Capstone		
+Statistics with R Specialization  </br>		
+Introduction to Probability and Data with R	 </br>	
+Inferential Statistics		 </br>
+Linear Regression and Modeling		 </br>
+Bayesian Statistics		 </br>
+Statistics with R Capstone	 </br>	
+		
+		
 		
 Data Science Specialization		
 The Data Scientist’s Toolbox		
