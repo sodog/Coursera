@@ -68,12 +68,15 @@ Mastering Software Development in R Capstone	 </br>
 
 
 		
-Data Visualization & Dashboarding with R Specialization		
-Getting Started with Data Visualization in R		
-Data Visualization in R with ggplot2		
-Advanced Data Visualization with R		
-Publishing Visualizations in R with Shiny and flexdashboard		
-Data Visualization Capstone		
+Data Visualization & Dashboarding with R Specialization		 </br>
+Getting Started with Data Visualization in R		 </br>
+Data Visualization in R with ggplot2		 </br>
+Advanced Data Visualization with R		 </br>
+Publishing Visualizations in R with Shiny and flexdashboard	 </br>	
+Data Visualization Capstone		 </br>
+
+
+
 		
 Data Science: Statistics and Machine Learning Specialization		
 Statistical Inference		
