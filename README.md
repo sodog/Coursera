@@ -270,10 +270,16 @@ Preparing for the Google Cloud Professional Data Engineer Exam 	</br>
 		
 		
 		
-Introduction to Computer Science and Programming Specialization		
-Introduction to Computer Programming 		
-How Computers Work		
-Mathematics for Computer Science 		
+Introduction to Computer Science and Programming Specialization	</br>	
+Introduction to Computer Programming 		</br>
+How Computers Work		</br>
+Mathematics for Computer Science 		</br>
+
+
+
+
+
+
 		
 Business Statistics and Analysis @ Rice University		
 Introduction to Data Analysis Using Excel		
