@@ -152,11 +152,16 @@ Survey Data Collection and Analytics Project (Capstone)		</br>
 
 
 		
-Learn English: Advanced Academic Speaking and Listening Specialization		
-Academic Listening and Note-Taking		
-Presentations: Speaking so that People Listen 		
-Academic Discussions in English 		
-Advanced Speaking and Listening Project 		
+Learn English: Advanced Academic Speaking and Listening Specialization	</br>	
+Academic Listening and Note-Taking		</br>
+Presentations: Speaking so that People Listen 		</br>
+Academic Discussions in English 		</br>
+Advanced Speaking and Listening Project 		</br>
+
+
+
+
+
 		
 Introduction to Discrete Mathematics for Computer Science Specialization		
 Mathematical Thinking in Computer Science		
