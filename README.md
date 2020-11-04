@@ -138,14 +138,19 @@ Project: Writing a Research Paper		 </br>
 
 
 		
-Survey Data Collection and Analytics Specialization		
-Framework for Data Collection and Analysis 		
-Data Collection: Online, Telephone and Face-to-face		
-Questionnaire Design for Social Surveys 		
-Sampling People, Networks and Records		
-Dealing with Missing Data 		
-Combining and Analyzing Complex Data 		
-Survey Data Collection and Analytics Project (Capstone)		
+Survey Data Collection and Analytics Specialization	</br>	
+Framework for Data Collection and Analysis 		</br>
+Data Collection: Online, Telephone and Face-to-face	</br>	
+Questionnaire Design for Social Surveys 		</br>
+Sampling People, Networks and Records		</br>
+Dealing with Missing Data 		</br>
+Combining and Analyzing Complex Data 		</br>
+Survey Data Collection and Analytics Project (Capstone)		</br>
+
+
+
+
+
 		
 Learn English: Advanced Academic Speaking and Listening Specialization		
 Academic Listening and Note-Taking		
