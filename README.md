@@ -384,14 +384,21 @@ Data Management and Visualization
 Data Analysis Tools		
 Regression Modeling in Practice 		
 Machine Learning for Data Analysis 		
-Data Analysis and Interpretation Capstone 		
+Data Analysis and Interpretation Capstone 	</br>
+
+
+
+
 		
 Creative Writing Specialization		
 Creative Writing: The Craft of Plot		
 Creative Writing: The Craft of Character 		
 Creative Writing: The Craft of Setting and Description		
 Creative Writing: The Craft of Style		
-Capstone: Your Story		
+Capstone: Your Story		</br>
+
+
+
 		
 Statistics with Python Specialization		
 Understanding and Visualizing Data with Python		
