@@ -78,46 +78,65 @@ Data Visualization Capstone		 </br>
 
 
 		
-Data Science: Statistics and Machine Learning Specialization		
-Statistical Inference		
-Regression Models		
-Practical Machine Learning 		
-Developing Data Products 		
-Data Science Capstone		
+Data Science: Statistics and Machine Learning Specialization		 </br>
+Statistical Inference		 </br>
+Regression Models		 </br>
+Practical Machine Learning 		 </br>
+Developing Data Products 		 </br>
+Data Science Capstone		 </br>
+
+
+
 		
-Career Success Specialization		
-Project Management: The Basics for Success		
-Work Smarter, Not Harder: Time Management for Personal & Professional Productivity		
-Finance for Non-Financial Professionals		
-Communication in the 21st Century Workplace		
-High-Impact Business Writing		
-The Art of Negotiation		
-Fundamentals of Management 		
-Effective Problem-Solving and Decision-Making		
-Essentials of Entrepreneurship: Thinking & Action		
-success Project		
+Career Success Specialization		 </br>
+Project Management: The Basics for Success	 </br>	
+Work Smarter, Not Harder: Time Management for Personal & Professional Productivity	 </br>	
+Finance for Non-Financial Professionals		 </br>
+Communication in the 21st Century Workplace		 </br>
+High-Impact Business Writing		 </br>
+The Art of Negotiation		 </br>
+Fundamentals of Management 		 </br>
+Effective Problem-Solving and Decision-Making	 </br>	
+Essentials of Entrepreneurship: Thinking & Action	 </br>	
+success Project		 </br>
+
+
+
+
 		
-Business English Communication Skills Specialization		
-Business English: Networking		
-Business English: Meetings		
-Business English: Planning & Negotiating 		
-Business English: Making Presentations		
-Business English: Capstone Project		
+Business English Communication Skills Specialization	 </br>	
+Business English: Networking		 </br>
+Business English: Meetings		 </br>
+Business English: Planning & Negotiating  </br>		
+Business English: Making Presentations	 </br>	
+Business English: Capstone Project	 </br>
+
+
+
+
 		
-Organizational Leadership Specialization		
-High Perfomance Collaboration: Leadership, Teamwork, and Negotiation		
-Leadership Communication for Maximum Impact: Storytelling		
-Leadership Through Social Influence 		
-Leadership Through Marketing 		
-Leadership Through Design Innovation 		
-Organizational Leadership Capstone		
+Organizational Leadership Specialization	 </br>	
+High Perfomance Collaboration: Leadership, Teamwork, and Negotiation	 </br>	
+Leadership Communication for Maximum Impact: Storytelling	 </br>	
+Leadership Through Social Influence 		 </br>
+Leadership Through Marketing 		 </br>
+Leadership Through Design Innovation 		 </br>
+Organizational Leadership Capstone		 </br>
+
+
+
+
 		
-Academic English: Writing Specialization		
-Grammar and Punctuation		
-Getting Started with Essay Writing 		
-Advanced Writing		
-Introduction to Research for Essay Writing 		
-Project: Writing a Research Paper		
+Academic English: Writing Specialization		 </br>
+Grammar and Punctuation		 </br>
+Getting Started with Essay Writing 		 </br>
+Advanced Writing		 </br>
+Introduction to Research for Essay Writing 	 </br>	
+Project: Writing a Research Paper		 </br>
+
+
+
+
 		
 Survey Data Collection and Analytics Specialization		
 Framework for Data Collection and Analysis 		
