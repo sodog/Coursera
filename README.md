@@ -186,11 +186,11 @@ Mathematics for Machine Learning: PCA		</br>
 		
 		
 		
-Data Science at Scale Specialization @ university of Washington		
-Data Manipulation at Scale: Systems and Algorithms		
-Practical Predictive Analytics: Models and Methods		
-Communicating Data Science Results		
-Data Science at Scale - Capstone Project		
+Data Science at Scale Specialization @ university of Washington		</br>
+Data Manipulation at Scale: Systems and Algorithms		</br>
+Practical Predictive Analytics: Models and Methods		</br>
+Communicating Data Science Results		</br>
+Data Science at Scale - Capstone Project		</br>
 		
 		
 		
