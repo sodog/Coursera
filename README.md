@@ -176,10 +176,10 @@ Delivery Problem 		</br>
 		
 		
 		
-Mathematics for Machine learning Specialization		
-Mathematics for Machine Learning: Linear Algebra 		
-Mathematics for Machine Learning: Multivariate Calculus		
-Mathematics for Machine Learning: PCA		
+Mathematics for Machine learning Specialization		</br>
+Mathematics for Machine Learning: Linear Algebra 	</br>	
+Mathematics for Machine Learning: Multivariate Calculus		</br>
+Mathematics for Machine Learning: PCA		</br>
 		
 		
 		
