@@ -313,16 +313,17 @@ Software Architecture		 </br>
 Service-Oriented Architecture		 </br>	
 
 
+Advanced Business Analytics @ University of Colorado Boulder		 </br>	
+Introduction to Data Analytics for Business		 </br>	
+Predictive Modeling and Analytics		 </br>	
+Business Analytics for Decision Making		 </br>	
+Communicating Business Analytics Results		 </br>	
+Advanced Business Analytics Capstone		 </br>	
 
 
 
-		
-Advanced Business Analytics @ University of Colorado Boulder		
-Introduction to Data Analytics for Business		
-Predictive Modeling and Analytics		
-Business Analytics for Decision Making		
-Communicating Business Analytics Results		
-Advanced Business Analytics Capstone		
+
+
 		
 Probabilistic Graphical Models Specialization		
 Probabilistic Graphical Models 1: Representation		
