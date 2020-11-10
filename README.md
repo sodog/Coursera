@@ -231,13 +231,13 @@ Managing Big Data in Clusters and cloud Storage		</br>
 		
 		
 		
-Fundamentals of Computing Specialization		
-An Introduction to Interactive Programming in Python (Part 1)		
-An Introduction to Interactive Programming in Python (Part 2)		
-Principles of Computing (Part 1)		
-Principles of Computing (Part 2)		
-Algorithmic Thinking (Part 1)		
-Algorithmic Thinking (Part 2)		
+Fundamentals of Computing Specialization		 </br>	
+An Introduction to Interactive Programming in Python (Part 1)	 </br>		
+An Introduction to Interactive Programming in Python (Part 2)	 </br>		
+Principles of Computing (Part 1)		 </br>	
+Principles of Computing (Part 2)		 </br>	
+Algorithmic Thinking (Part 1)		 </br>	
+Algorithmic Thinking (Part 2)		 </br>	
 The Fundamentals of Computing Capstone Exam	</br>	
 		
 		
