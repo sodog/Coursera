@@ -305,14 +305,17 @@ Increasing Real Estate Management Profits: Harnessing Data Analytics	 </br>
 
 
 
-
-
 		
-Software Design and Architecture Specialization		
-Object-Oriented Design		
-Design Patterns		
-Software Architecture		
-Service-Oriented Architecture		
+Software Design and Architecture Specialization		 </br>	
+Object-Oriented Design		 </br>	
+Design Patterns		 </br>	
+Software Architecture		 </br>	
+Service-Oriented Architecture		 </br>	
+
+
+
+
+
 		
 Advanced Business Analytics @ University of Colorado Boulder		
 Introduction to Data Analytics for Business		
