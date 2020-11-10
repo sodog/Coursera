@@ -281,19 +281,32 @@ Mathematics for Computer Science 		</br>
 
 
 		
-Business Statistics and Analysis @ Rice University		
-Introduction to Data Analysis Using Excel		
-Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions		
-Business Applications of Hypothesis Testing and Confidence Interval Estimation 		
-Linear Regression for Business Statistics		
-Business Statistics and Analysis Capstone		
+Business Statistics and Analysis @ Rice University		 </br>	
+Introduction to Data Analysis Using Excel		 </br>	
+Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions </br>			
+Business Applications of Hypothesis Testing and Confidence Interval Estimation 		 </br>	
+Linear Regression for Business Statistics		 </br>	
+Business Statistics and Analysis Capstone		 </br>	
 		
-Excel to MySQL: Analytic Techniques for Business @ Duke University		
-Business Metrics for Data-Driven Companies		
-Mastering Data Analysis in Excel		
-Data Visualization and Communication with Tableau		
-Managing Big Data with MySQL		
-Increasing Real Estate Management Profits: Harnessing Data Analytics		
+		
+		
+		
+		
+		
+		
+Excel to MySQL: Analytic Techniques for Business @ Duke University	 </br>		
+Business Metrics for Data-Driven Companies		 </br>	
+Mastering Data Analysis in Excel		 </br>	
+Data Visualization and Communication with Tableau	 </br>		
+Managing Big Data with MySQL		 </br>	
+Increasing Real Estate Management Profits: Harnessing Data Analytics	 </br>	
+
+
+
+
+
+
+
 		
 Software Design and Architecture Specialization		
 Object-Oriented Design		
