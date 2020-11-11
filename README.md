@@ -245,10 +245,10 @@ The Fundamentals of Computing Capstone Exam	</br>
 		
 		
 		
-Analysing: Numeric and digital literacies Specialization		
-Management and financial accounting: Know your numbers 1		
-Corporate finance: Know your numbers 2		
-Business intelligence and data analytics: Generate insights 		
+Analysing: Numeric and digital literacies Specialization	</br>		
+Management and financial accounting: Know your numbers 1	</br>		
+Corporate finance: Know your numbers 2		</br>	
+Business intelligence and data analytics: Generate insights 		</br>	
 Marketing analytics: Know your customers </br>	
 
 
