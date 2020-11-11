@@ -197,12 +197,12 @@ Data Science at Scale - Capstone Project		</br>
 		
 		
 		
-Data Mining Specialization		
-Data Visualization		
-Text Retrieval and Search Engines		
-Text Mining and Analytics		
-Pattern Discovery in Data Mining		
-Cluster Analysis in Data Mining		
+Data Mining Specialization	</br>		
+Data Visualization	</br>		
+Text Retrieval and Search Engines	</br>		
+Text Mining and Analytics	</br>		
+Pattern Discovery in Data Mining	</br>		
+Cluster Analysis in Data Mining	</br>		
 Data Mining Project		</br>
 		
 		
