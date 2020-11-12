@@ -53,8 +53,7 @@ Practical Machine Learning 	 </br>
 Developing Data Products 	 </br>	
 Data Science Capstone		 </br>
 		
-		
-		
+				
 Mastering Software Development in R Specialization	 </br>	
 The R Programming Environment		 </br>
 Advanced R Programming		 </br>
@@ -63,7 +62,6 @@ Building Data Visualization Tools	 </br>
 Mastering Software Development in R Capstone	 </br>
 
 
-		
 Data Visualization & Dashboarding with R Specialization		 </br>
 Getting Started with Data Visualization in R		 </br>
 Data Visualization in R with ggplot2		 </br>
