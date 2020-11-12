@@ -41,7 +41,6 @@ Bayesian Statistics		 </br>
 Statistics with R Capstone	 </br>	
 		
 		
-		
 Data Science Specialization	 </br>	
 The Data Scientist’s Toolbox	 </br>	
 R Programming		 </br>
