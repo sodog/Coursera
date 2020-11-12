@@ -115,9 +115,6 @@ Advanced Writing		 </br>
 Introduction to Research for Essay Writing 	 </br>	
 Project: Writing a Research Paper		 </br>
 
-
-
-
 		
 Survey Data Collection and Analytics Specialization	</br>	
 Framework for Data Collection and Analysis 		</br>
@@ -128,20 +125,12 @@ Dealing with Missing Data 		</br>
 Combining and Analyzing Complex Data 		</br>
 Survey Data Collection and Analytics Project (Capstone)		</br>
 
-
-
-
-
 		
 Learn English: Advanced Academic Speaking and Listening Specialization	</br>	
 Academic Listening and Note-Taking		</br>
 Presentations: Speaking so that People Listen 		</br>
 Academic Discussions in English 		</br>
 Advanced Speaking and Listening Project 		</br>
-
-
-
-
 
 		
 Introduction to Discrete Mathematics for Computer Science Specialization	</br>	
@@ -150,12 +139,7 @@ Combinatorics and Probability 		</br>
 Introduction to Graph Theory		</br>
 Number Theory and Cryptography		</br>
 Delivery Problem 		</br>
-		
-		
-		
-		
-		
-		
+				
 		
 Mathematics for Machine learning Specialization		</br>
 Mathematics for Machine Learning: Linear Algebra 	</br>	
