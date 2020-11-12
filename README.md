@@ -152,11 +152,7 @@ Data Manipulation at Scale: Systems and Algorithms		</br>
 Practical Predictive Analytics: Models and Methods		</br>
 Communicating Data Science Results		</br>
 Data Science at Scale - Capstone Project		</br>
-		
-		
-		
-		
-		
+
 		
 Data Mining Specialization	</br>		
 Data Visualization	</br>		
