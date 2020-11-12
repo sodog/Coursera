@@ -163,10 +163,6 @@ Cluster Analysis in Data Mining	</br>
 Data Mining Project		</br>
 		
 		
-		
-		
-		
-		
 Information Visualization Specialization		</br>
 Information Visualization: Foundations		</br>
 Information Visualization: Applied Perception		</br>
