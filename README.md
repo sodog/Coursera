@@ -276,11 +276,6 @@ How Computers Work		</br>
 Mathematics for Computer Science 		</br>
 
 
-
-
-
-
-		
 Business Statistics and Analysis @ Rice University		 </br>	
 Introduction to Data Analysis Using Excel		 </br>	
 Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions </br>			
@@ -289,21 +284,12 @@ Linear Regression for Business Statistics		 </br>
 Business Statistics and Analysis Capstone		 </br>	
 		
 		
-		
-		
-		
-		
-		
 Excel to MySQL: Analytic Techniques for Business @ Duke University	 </br>		
 Business Metrics for Data-Driven Companies		 </br>	
 Mastering Data Analysis in Excel		 </br>	
 Data Visualization and Communication with Tableau	 </br>		
 Managing Big Data with MySQL		 </br>	
 Increasing Real Estate Management Profits: Harnessing Data Analytics	 </br>	
-
-
-
-
 
 		
 Software Design and Architecture Specialization		 </br>	
@@ -320,15 +306,12 @@ Business Analytics for Decision Making		 </br>
 Communicating Business Analytics Results		 </br>	
 Advanced Business Analytics Capstone		 </br>	
 
-
-
-
-
 		
-Probabilistic Graphical Models Specialization		
-Probabilistic Graphical Models 1: Representation		
-Probabilistic raphical Models 2: Inference		
-Probabilistic Graphical Models 3: Learning		
+Probabilistic Graphical Models Specialization		 </br>
+Probabilistic Graphical Models 1: Representation	 </br>	
+Probabilistic raphical Models 2: Inference		 </br>
+Probabilistic Graphical Models 3: Learning		 </br>
+
 		
 Mathematics for Data Science Specialization		
 Discrete Math and Analyzing Social Graphs		
