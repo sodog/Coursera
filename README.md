@@ -98,9 +98,6 @@ Business English: Planning & Negotiating  </br>
 Business English: Making Presentations	 </br>	
 Business English: Capstone Project	 </br>
 
-
-
-
 		
 Organizational Leadership Specialization	 </br>	
 High Perfomance Collaboration: Leadership, Teamwork, and Negotiation	 </br>	
@@ -109,9 +106,6 @@ Leadership Through Social Influence 		 </br>
 Leadership Through Marketing 		 </br>
 Leadership Through Design Innovation 		 </br>
 Organizational Leadership Capstone		 </br>
-
-
-
 
 		
 Academic English: Writing Specialization		 </br>
