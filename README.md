@@ -70,8 +70,6 @@ Publishing Visualizations in R with Shiny and flexdashboard	 </br>
 Data Visualization Capstone		 </br>
 
 
-
-		
 Data Science: Statistics and Machine Learning Specialization		 </br>
 Statistical Inference		 </br>
 Regression Models		 </br>
