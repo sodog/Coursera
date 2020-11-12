@@ -191,10 +191,10 @@ Data Mining Project		</br>
 		
 		
 		
-Information Visualization Specialization		
-Information Visualization: Foundations		
-Information Visualization: Applied Perception		
-Information Visualization: Programming with D3.js		
+Information Visualization Specialization		</br>
+Information Visualization: Foundations		</br>
+Information Visualization: Applied Perception		</br>
+Information Visualization: Programming with D3.js	</br>	
 Information Visualization: Advanced Techniques		</br>
 		
 		
@@ -202,9 +202,9 @@ Information Visualization: Advanced Techniques		</br>
 		
 		
 		
-Modern Big Data Analysis with SQL Specialization		
-Foundations for Big Data Analysis with SQL		
-Analyzing Big Data with SQL		
+Modern Big Data Analysis with SQL Specialization	</br>	
+Foundations for Big Data Analysis with SQL		</br>
+Analyzing Big Data with SQL		</br>
 Managing Big Data in Clusters and cloud Storage		</br>
 		
 		
@@ -236,13 +236,13 @@ Marketing analytics: Know your customers </br>
 
 
 
-		
-Data Engineering with Google Cloud Professional Certificate 		
-Google Cloud Platform Big Data and Machine Learning Fundamentals 		
-Modernizing Data Lakes and Data Warehouses with GCP		
-Building Batch Data Pipelines on GCP		
-Building Resilient Streaming Analytics Systems on GCP		
-Smart Analytics, Machine Learning, and AI on GCP		
+	
+Data Engineering with Google Cloud Professional Certificate 	</br>	
+Google Cloud Platform Big Data and Machine Learning Fundamentals </br>		
+Modernizing Data Lakes and Data Warehouses with GCP	</br>	
+Building Batch Data Pipelines on GCP		</br>
+Building Resilient Streaming Analytics Systems on GCP	</br>	
+Smart Analytics, Machine Learning, and AI on GCP	</br>	
 Preparing for the Google Cloud Professional Data Engineer Exam 	</br>	
 		
 		
