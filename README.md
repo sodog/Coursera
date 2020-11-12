@@ -147,10 +147,6 @@ Mathematics for Machine Learning: Multivariate Calculus		</br>
 Mathematics for Machine Learning: PCA		</br>
 		
 		
-		
-		
-		
-		
 Data Science at Scale Specialization @ university of Washington		</br>
 Data Manipulation at Scale: Systems and Algorithms		</br>
 Practical Predictive Analytics: Models and Methods		</br>
