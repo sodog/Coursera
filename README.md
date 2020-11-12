@@ -77,9 +77,7 @@ Practical Machine Learning 		 </br>
 Developing Data Products 		 </br>
 Data Science Capstone		 </br>
 
-
-
-		
+	
 Career Success Specialization		 </br>
 Project Management: The Basics for Success	 </br>	
 Work Smarter, Not Harder: Time Management for Personal & Professional Productivity	 </br>	
