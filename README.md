@@ -186,10 +186,6 @@ Algorithmic Thinking (Part 2)		 </br>
 The Fundamentals of Computing Capstone Exam	</br>	
 		
 		
-		
-		
-		
-		
 Analysing: Numeric and digital literacies Specialization	</br>		
 Management and financial accounting: Know your numbers 1	</br>		
 Corporate finance: Know your numbers 2		</br>	
@@ -197,10 +193,6 @@ Business intelligence and data analytics: Generate insights 		</br>
 Marketing analytics: Know your customers </br>	
 
 
-
-
-
-	
 Data Engineering with Google Cloud Professional Certificate 	</br>	
 Google Cloud Platform Big Data and Machine Learning Fundamentals </br>		
 Modernizing Data Lakes and Data Warehouses with GCP	</br>	
