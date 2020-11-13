@@ -176,10 +176,6 @@ Analyzing Big Data with SQL		</br>
 Managing Big Data in Clusters and cloud Storage		</br>
 		
 		
-		
-		
-		
-		
 Fundamentals of Computing Specialization		 </br>	
 An Introduction to Interactive Programming in Python (Part 1)	 </br>		
 An Introduction to Interactive Programming in Python (Part 2)	 </br>		
