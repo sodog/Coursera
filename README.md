@@ -169,11 +169,7 @@ Information Visualization: Applied Perception		</br>
 Information Visualization: Programming with D3.js	</br>	
 Information Visualization: Advanced Techniques		</br>
 		
-		
-		
-		
-		
-		
+
 Modern Big Data Analysis with SQL Specialization	</br>	
 Foundations for Big Data Analysis with SQL		</br>
 Analyzing Big Data with SQL		</br>
