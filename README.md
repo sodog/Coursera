@@ -336,8 +336,6 @@ Creative Writing: The Craft of Style
 Capstone: Your Story		</br>
 
 
-
-		
 Statistics with Python Specialization		
 Understanding and Visualizing Data with Python		
 Inferential Statistical Analysis with Python		
