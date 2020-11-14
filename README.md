@@ -202,11 +202,6 @@ Smart Analytics, Machine Learning, and AI on GCP	</br>
 Preparing for the Google Cloud Professional Data Engineer Exam 	</br>	
 		
 		
-		
-		
-		
-		
-		
 Introduction to Computer Science and Programming Specialization	</br>	
 Introduction to Computer Programming 		</br>
 How Computers Work		</br>
