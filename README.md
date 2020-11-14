@@ -245,69 +245,69 @@ Probabilistic raphical Models 2: Inference		 </br>
 Probabilistic Graphical Models 3: Learning		 </br>
 
 		
-Mathematics for Data Science Specialization		
-Discrete Math and Analyzing Social Graphs		
-Calculus and Optimization for Machine Learning		
-First Steps in Linear Algebra for machine Learning 		
-Probability theory, Statistics and Exploratory Data Analysis 		
+Mathematics for Data Science Specialization		</br>
+Discrete Math and Analyzing Social Graphs		</br>
+Calculus and Optimization for Machine Learning		</br>
+First Steps in Linear Algebra for machine Learning 		</br>
+Probability theory, Statistics and Exploratory Data Analysis 	</br>	
 		
 		
-Content Strategy for professionals Specialization		
-Content Strategy for professionals: Engaging Audiences		
-Content Strategy for professionals: Managing Content		
-Content Strategy for professionals: Expanding Your Content's Reach		
-Content Strategy for professionals: Ensuring Your Content's Impact		
-Content Strategy for professionals: Capstone Project		
+Content Strategy for professionals Specialization		</br>
+Content Strategy for professionals: Engaging Audiences		</br>
+Content Strategy for professionals: Managing Content		</br>
+Content Strategy for professionals: Expanding Your Content's Reach	</br>	
+Content Strategy for professionals: Ensuring Your Content's Impact	</br>	
+Content Strategy for professionals: Capstone Project		</br>
 		
 		
-Data Literacy Specialization		
-Data - What it is, What we can do with it		
-Measurement - Turning Concepts into Data 		
-Quantifying Relationships with Regression Models		
-What are the Chances? Probability and Uncertainty in Statistics		
-Data Literacy Capstone - Evaluating Research		
+Data Literacy Specialization		</br>
+Data - What it is, What we can do with it		</br>
+Measurement - Turning Concepts into Data 		</br>
+Quantifying Relationships with Regression Models	</br>	
+What are the Chances? Probability and Uncertainty in Statistics	</br>	
+Data Literacy Capstone - Evaluating Research		</br>
 	
 	
-Mind and Machine Specialization		
-What is "the mind" and what is artificial intelligence ?		
-Methods for Solving Problems		
-Computational Vision		
-Interpersonal, Developmental, and Evolutionary Perspectives of the Mind		
+Mind and Machine Specialization		</br>
+What is "the mind" and what is artificial intelligence ?	</br>	
+Methods for Solving Problems		</br>
+Computational Vision		</br>
+Interpersonal, Developmental, and Evolutionary Perspectives of the Mind	</br>	
 	
 	
-Database Systems Specialization 		
-Relational database systems		
-Business intelligence and data warehousing		
-NoSQL Systems		
-Designing data-intensive applications		
+Database Systems Specialization 		</br>
+Relational database systems		</br>
+Business intelligence and data warehousing	</br>	
+NoSQL Systems		</br>
+Designing data-intensive applications		</br>
 	
 	
-Managerial economics and Business Analysis Specialization 		
-Firm Level Economics: Consmer and producer Behavior 		
-Firm Level Economics: Markets and Allocations		
-Country lvel Economics: Macroeconomic Variables and Markets 		
-Country Level Economics: Policies, Insitutions, and Macroeconomic Performance		
-Exploring and Producing Data for Business decision Making		
-Inferential and Predictive Statistics for Business		
-Managerial Economics and Business Analysis Capstone		
+Managerial economics and Business Analysis Specialization 	</br>	
+Firm Level Economics: Consmer and producer Behavior 		</br>
+Firm Level Economics: Markets and Allocations		</br>
+Country lvel Economics: Macroeconomic Variables and Markets 	</br>	
+Country Level Economics: Policies, Insitutions, and Macroeconomic Performance	</br>	
+Exploring and Producing Data for Business decision Making		</br>
+Inferential and Predictive Statistics for Business		</br>
+Managerial Economics and Business Analysis Capstone		</br>
 	
 	
-Data Warehousing for Business Intelligence Specialization		
-Database Management Essentials		
-Data Warehouse Concepts, Design, and Data Integration		
-Relational Database Support for Data Warehouses		
-Business Intelligence Concepts, Tools, and Applications		
-Design and Build a Data Warehouse for Business Intelligence Implementation		
+Data Warehousing for Business Intelligence Specialization		</br>
+Database Management Essentials		</br>
+Data Warehouse Concepts, Design, and Data Integration		</br>
+Relational Database Support for Data Warehouses		</br>
+Business Intelligence Concepts, Tools, and Applications		</br>
+Design and Build a Data Warehouse for Business Intelligence Implementation	</br>	
 	
 	
-Global Procurement and Sourcing Specialization 		
-Procurement & Sourcing Introduction 		
-Procurement Basics 		
-Strategic Sourcing		
-Supplier Management 		
-Supply Market Analysis 		
-Procurement Negotiation		
-Strategic Procurement and Sourcing Conclusions 		
+Global Procurement and Sourcing Specialization 		</br>
+Procurement & Sourcing Introduction 		</br>
+Procurement Basics 		</br>
+Strategic Sourcing		</br>
+Supplier Management 		</br>
+Supply Market Analysis 		</br>
+Procurement Negotiation		</br>
+Strategic Procurement and Sourcing Conclusions 	</br>	
 		
 		
 Big Data Specialization		</br>
@@ -319,12 +319,12 @@ Graph Analytics for Big Data 		</br>
 Big Data - Capstone Project 		</br>
 		
 		
-Business Analytics Specialization		
-Customer Analytics 		
-Operations Analytics 		
-People Analytics 		
-Accounting Analytics		
-Business Analytics Capstone 		
+Business Analytics Specialization	</br>	
+Customer Analytics 		</br>
+Operations Analytics 		</br>
+People Analytics 		</br>
+Accounting Analytics		</br>
+Business Analytics Capstone 	</br>	
 		
 		
 Data Analysis and Interpretation Specialization		</br>
