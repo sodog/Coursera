@@ -302,13 +302,15 @@ Supply Market Analysis
 Procurement Negotiation		
 Strategic Procurement and Sourcing Conclusions 		
 		
-Big Data Specialization		
-Introduction to Big Data 		
-Big Data Modeling and Management Systems 		
-Big Data Integration and Processing 		
-Machine Learning With Big Data 		
-Graph Analytics for Big Data 		
-Big Data - Capstone Project 		
+		
+Big Data Specialization		</br>
+Introduction to Big Data 		</br>
+Big Data Modeling and Management Systems </br>		
+Big Data Integration and Processing 	</br>	
+Machine Learning With Big Data 		</br>
+Graph Analytics for Big Data 		</br>
+Big Data - Capstone Project 		</br>
+		
 		
 Business Analytics Specialization		
 Customer Analytics 		
@@ -317,11 +319,12 @@ People Analytics
 Accounting Analytics		
 Business Analytics Capstone 		
 		
-Data Analysis and Interpretation Specialization		
-Data Management and Visualization		
-Data Analysis Tools		
-Regression Modeling in Practice 		
-Machine Learning for Data Analysis 		
+		
+Data Analysis and Interpretation Specialization		</br>
+Data Management and Visualization	</br>	
+Data Analysis Tools		</br>
+Regression Modeling in Practice 	</br>	
+Machine Learning for Data Analysis 	</br>	
 Data Analysis and Interpretation Capstone 	</br>
 
 
