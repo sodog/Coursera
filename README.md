@@ -251,6 +251,7 @@ Calculus and Optimization for Machine Learning
 First Steps in Linear Algebra for machine Learning 		
 Probability theory, Statistics and Exploratory Data Analysis 		
 		
+		
 Content Strategy for professionals Specialization		
 Content Strategy for professionals: Engaging Audiences		
 Content Strategy for professionals: Managing Content		
@@ -258,25 +259,29 @@ Content Strategy for professionals: Expanding Your Content's Reach
 Content Strategy for professionals: Ensuring Your Content's Impact		
 Content Strategy for professionals: Capstone Project		
 		
+		
 Data Literacy Specialization		
 Data - What it is, What we can do with it		
 Measurement - Turning Concepts into Data 		
 Quantifying Relationships with Regression Models		
 What are the Chances? Probability and Uncertainty in Statistics		
 Data Literacy Capstone - Evaluating Research		
-		
+	
+	
 Mind and Machine Specialization		
 What is "the mind" and what is artificial intelligence ?		
 Methods for Solving Problems		
 Computational Vision		
 Interpersonal, Developmental, and Evolutionary Perspectives of the Mind		
-		
+	
+	
 Database Systems Specialization 		
 Relational database systems		
 Business intelligence and data warehousing		
 NoSQL Systems		
 Designing data-intensive applications		
-		
+	
+	
 Managerial economics and Business Analysis Specialization 		
 Firm Level Economics: Consmer and producer Behavior 		
 Firm Level Economics: Markets and Allocations		
@@ -285,14 +290,16 @@ Country Level Economics: Policies, Insitutions, and Macroeconomic Performance
 Exploring and Producing Data for Business decision Making		
 Inferential and Predictive Statistics for Business		
 Managerial Economics and Business Analysis Capstone		
-		
+	
+	
 Data Warehousing for Business Intelligence Specialization		
 Database Management Essentials		
 Data Warehouse Concepts, Design, and Data Integration		
 Relational Database Support for Data Warehouses		
 Business Intelligence Concepts, Tools, and Applications		
 Design and Build a Data Warehouse for Business Intelligence Implementation		
-		
+	
+	
 Global Procurement and Sourcing Specialization 		
 Procurement & Sourcing Introduction 		
 Procurement Basics 		
@@ -336,7 +343,7 @@ Creative Writing: The Craft of Style		</br>
 Capstone: Your Story		</br>
 
 
-Statistics with Python Specialization		
-Understanding and Visualizing Data with Python		
-Inferential Statistical Analysis with Python		
-Fitting Statistical Models to Data with Python		
+Statistics with Python Specialization		</br>
+Understanding and Visualizing Data with Python	</br>	
+Inferential Statistical Analysis with Python	</br>	
+Fitting Statistical Models to Data with Python	</br>	
