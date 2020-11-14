@@ -325,14 +325,11 @@ Machine Learning for Data Analysis
 Data Analysis and Interpretation Capstone 	</br>
 
 
-
-
-		
-Creative Writing Specialization		
-Creative Writing: The Craft of Plot		
-Creative Writing: The Craft of Character 		
-Creative Writing: The Craft of Setting and Description		
-Creative Writing: The Craft of Style		
+Creative Writing Specialization		</br>
+Creative Writing: The Craft of Plot		</br>
+Creative Writing: The Craft of Character 	</br>	
+Creative Writing: The Craft of Setting and Description	</br>	
+Creative Writing: The Craft of Style		</br>
 Capstone: Your Story		</br>
 
 
