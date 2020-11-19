@@ -245,14 +245,14 @@ Probabilistic raphical Models 2: Inference		 </br>
 Probabilistic Graphical Models 3: Learning		 </br>
 
 		
-Mathematics for Data Science Specialization		</br>
+**Mathematics for Data Science Specialization**		</br>
 Discrete Math and Analyzing Social Graphs		</br>
 Calculus and Optimization for Machine Learning		</br>
 First Steps in Linear Algebra for machine Learning 		</br>
 Probability theory, Statistics and Exploratory Data Analysis 	</br>	
 		
 		
-Content Strategy for professionals Specialization		</br>
+**Content Strategy for professionals Specialization**		</br>
 Content Strategy for professionals: Engaging Audiences		</br>
 Content Strategy for professionals: Managing Content		</br>
 Content Strategy for professionals: Expanding Your Content's Reach	</br>	
@@ -260,7 +260,7 @@ Content Strategy for professionals: Ensuring Your Content's Impact	</br>
 Content Strategy for professionals: Capstone Project		</br>
 		
 		
-Data Literacy Specialization		</br>
+**Data Literacy Specialization**		</br>
 Data - What it is, What we can do with it		</br>
 Measurement - Turning Concepts into Data 		</br>
 Quantifying Relationships with Regression Models	</br>	
@@ -268,21 +268,21 @@ What are the Chances? Probability and Uncertainty in Statistics	</br>
 Data Literacy Capstone - Evaluating Research		</br>
 	
 	
-Mind and Machine Specialization		</br>
+**Mind and Machine Specialization**		</br>
 What is "the mind" and what is artificial intelligence ?	</br>	
 Methods for Solving Problems		</br>
 Computational Vision		</br>
 Interpersonal, Developmental, and Evolutionary Perspectives of the Mind	</br>	
 	
 	
-Database Systems Specialization 		</br>
+**Database Systems Specialization** 		</br>
 Relational database systems		</br>
 Business intelligence and data warehousing	</br>	
 NoSQL Systems		</br>
 Designing data-intensive applications		</br>
 	
 	
-Managerial economics and Business Analysis Specialization 	</br>	
+**Managerial economics and Business Analysis Specialization** 	</br>	
 Firm Level Economics: Consmer and producer Behavior 		</br>
 Firm Level Economics: Markets and Allocations		</br>
 Country lvel Economics: Macroeconomic Variables and Markets 	</br>	
@@ -292,7 +292,7 @@ Inferential and Predictive Statistics for Business		</br>
 Managerial Economics and Business Analysis Capstone		</br>
 	
 	
-Data Warehousing for Business Intelligence Specialization		</br>
+**Data Warehousing for Business Intelligence Specialization**		</br>
 Database Management Essentials		</br>
 Data Warehouse Concepts, Design, and Data Integration		</br>
 Relational Database Support for Data Warehouses		</br>
