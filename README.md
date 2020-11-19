@@ -108,7 +108,7 @@ Leadership Through Design Innovation 		 </br>
 Organizational Leadership Capstone		 </br>
 
 		
-Academic English: Writing Specialization		 </br>
+**Academic English: Writing Specialization**		 </br>
 Grammar and Punctuation		 </br>
 Getting Started with Essay Writing 		 </br>
 Advanced Writing		 </br>
@@ -116,7 +116,7 @@ Introduction to Research for Essay Writing 	 </br>
 Project: Writing a Research Paper		 </br>
 
 		
-Survey Data Collection and Analytics Specialization	</br>	
+**Survey Data Collection and Analytics Specialization**	</br>	
 Framework for Data Collection and Analysis 		</br>
 Data Collection: Online, Telephone and Face-to-face	</br>	
 Questionnaire Design for Social Surveys 		</br>
@@ -126,14 +126,14 @@ Combining and Analyzing Complex Data 		</br>
 Survey Data Collection and Analytics Project (Capstone)		</br>
 
 		
-Learn English: Advanced Academic Speaking and Listening Specialization	</br>	
+**Learn English: Advanced Academic Speaking and Listening Specialization**	</br>	
 Academic Listening and Note-Taking		</br>
 Presentations: Speaking so that People Listen 		</br>
 Academic Discussions in English 		</br>
 Advanced Speaking and Listening Project 		</br>
 
 		
-Introduction to Discrete Mathematics for Computer Science Specialization	</br>	
+**Introduction to Discrete Mathematics for Computer Science Specialization**	</br>	
 Mathematical Thinking in Computer Science		</br>
 Combinatorics and Probability 		</br>
 Introduction to Graph Theory		</br>
@@ -141,20 +141,20 @@ Number Theory and Cryptography		</br>
 Delivery Problem 		</br>
 				
 		
-Mathematics for Machine learning Specialization		</br>
+**Mathematics for Machine learning Specialization**		</br>
 Mathematics for Machine Learning: Linear Algebra 	</br>	
 Mathematics for Machine Learning: Multivariate Calculus		</br>
 Mathematics for Machine Learning: PCA		</br>
 		
 		
-Data Science at Scale Specialization @ university of Washington		</br>
+**Data Science at Scale Specialization @ university of Washington**		</br>
 Data Manipulation at Scale: Systems and Algorithms		</br>
 Practical Predictive Analytics: Models and Methods		</br>
 Communicating Data Science Results		</br>
 Data Science at Scale - Capstone Project		</br>
 
 		
-Data Mining Specialization	</br>		
+**Data Mining Specialization**	</br>		
 Data Visualization	</br>		
 Text Retrieval and Search Engines	</br>		
 Text Mining and Analytics	</br>		
@@ -163,20 +163,20 @@ Cluster Analysis in Data Mining	</br>
 Data Mining Project		</br>
 		
 		
-Information Visualization Specialization		</br>
+**Information Visualization Specialization**		</br>
 Information Visualization: Foundations		</br>
 Information Visualization: Applied Perception		</br>
 Information Visualization: Programming with D3.js	</br>	
 Information Visualization: Advanced Techniques		</br>
 		
 
-Modern Big Data Analysis with SQL Specialization	</br>	
+**Modern Big Data Analysis with SQL Specialization**	</br>	
 Foundations for Big Data Analysis with SQL		</br>
 Analyzing Big Data with SQL		</br>
 Managing Big Data in Clusters and cloud Storage		</br>
 		
 		
-Fundamentals of Computing Specialization		 </br>	
+**Fundamentals of Computing Specialization**		 </br>	
 An Introduction to Interactive Programming in Python (Part 1)	 </br>		
 An Introduction to Interactive Programming in Python (Part 2)	 </br>		
 Principles of Computing (Part 1)		 </br>	
@@ -186,14 +186,14 @@ Algorithmic Thinking (Part 2)		 </br>
 The Fundamentals of Computing Capstone Exam	</br>	
 		
 		
-Analysing: Numeric and digital literacies Specialization	</br>		
+**Analysing: Numeric and digital literacies Specialization**	</br>		
 Management and financial accounting: Know your numbers 1	</br>		
 Corporate finance: Know your numbers 2		</br>	
 Business intelligence and data analytics: Generate insights 		</br>	
 Marketing analytics: Know your customers </br>	
 
 
-Data Engineering with Google Cloud Professional Certificate 	</br>	
+**Data Engineering with Google Cloud Professional Certificate** 	</br>	
 Google Cloud Platform Big Data and Machine Learning Fundamentals </br>		
 Modernizing Data Lakes and Data Warehouses with GCP	</br>	
 Building Batch Data Pipelines on GCP		</br>
@@ -202,13 +202,13 @@ Smart Analytics, Machine Learning, and AI on GCP	</br>
 Preparing for the Google Cloud Professional Data Engineer Exam 	</br>	
 		
 		
-Introduction to Computer Science and Programming Specialization	</br>	
+**Introduction to Computer Science and Programming Specialization**	</br>	
 Introduction to Computer Programming 		</br>
 How Computers Work		</br>
 Mathematics for Computer Science 		</br>
 
 
-Business Statistics and Analysis @ Rice University		 </br>	
+**Business Statistics and Analysis @ Rice University**		 </br>	
 Introduction to Data Analysis Using Excel		 </br>	
 Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions </br>			
 Business Applications of Hypothesis Testing and Confidence Interval Estimation 		 </br>	
@@ -216,7 +216,7 @@ Linear Regression for Business Statistics		 </br>
 Business Statistics and Analysis Capstone		 </br>	
 		
 		
-Excel to MySQL: Analytic Techniques for Business @ Duke University	 </br>		
+**Excel to MySQL: Analytic Techniques for Business @ Duke University**	 </br>		
 Business Metrics for Data-Driven Companies		 </br>	
 Mastering Data Analysis in Excel		 </br>	
 Data Visualization and Communication with Tableau	 </br>		
@@ -224,14 +224,14 @@ Managing Big Data with MySQL		 </br>
 Increasing Real Estate Management Profits: Harnessing Data Analytics	 </br>	
 
 		
-Software Design and Architecture Specialization		 </br>	
+**Software Design and Architecture Specialization**		 </br>	
 Object-Oriented Design		 </br>	
 Design Patterns		 </br>	
 Software Architecture		 </br>	
 Service-Oriented Architecture		 </br>	
 
 
-Advanced Business Analytics @ University of Colorado Boulder		 </br>	
+**Advanced Business Analytics @ University of Colorado Boulder**		 </br>	
 Introduction to Data Analytics for Business		 </br>	
 Predictive Modeling and Analytics		 </br>	
 Business Analytics for Decision Making		 </br>	
@@ -239,7 +239,7 @@ Communicating Business Analytics Results		 </br>
 Advanced Business Analytics Capstone		 </br>	
 
 		
-Probabilistic Graphical Models Specialization		 </br>
+**Probabilistic Graphical Models Specialization**		 </br>
 Probabilistic Graphical Models 1: Representation	 </br>	
 Probabilistic raphical Models 2: Inference		 </br>
 Probabilistic Graphical Models 3: Learning		 </br>
