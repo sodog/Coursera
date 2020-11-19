@@ -54,7 +54,7 @@ Developing Data Products 	 </br>
 Data Science Capstone		 </br>
 		
 				
-Mastering Software Development in R Specialization	 </br>	
+**Mastering Software Development in R Specialization**	 </br>	
 The R Programming Environment		 </br>
 Advanced R Programming		 </br>
 Building R Packages		 </br>
@@ -62,7 +62,7 @@ Building Data Visualization Tools	 </br>
 Mastering Software Development in R Capstone	 </br>
 
 
-Data Visualization & Dashboarding with R Specialization		 </br>
+**Data Visualization & Dashboarding with R Specialization**		 </br>
 Getting Started with Data Visualization in R		 </br>
 Data Visualization in R with ggplot2		 </br>
 Advanced Data Visualization with R		 </br>
@@ -70,7 +70,7 @@ Publishing Visualizations in R with Shiny and flexdashboard	 </br>
 Data Visualization Capstone		 </br>
 
 
-Data Science: Statistics and Machine Learning Specialization		 </br>
+**Data Science: Statistics and Machine Learning Specialization**		 </br>
 Statistical Inference		 </br>
 Regression Models		 </br>
 Practical Machine Learning 		 </br>
@@ -78,7 +78,7 @@ Developing Data Products 		 </br>
 Data Science Capstone		 </br>
 
 	
-Career Success Specialization		 </br>
+**Career Success Specialization**		 </br>
 Project Management: The Basics for Success	 </br>	
 Work Smarter, Not Harder: Time Management for Personal & Professional Productivity	 </br>	
 Finance for Non-Financial Professionals		 </br>
@@ -91,7 +91,7 @@ Essentials of Entrepreneurship: Thinking & Action	 </br>
 success Project		 </br>
 
 		
-Business English Communication Skills Specialization	 </br>	
+**Business English Communication Skills Specialization**	 </br>	
 Business English: Networking		 </br>
 Business English: Meetings		 </br>
 Business English: Planning & Negotiating  </br>		
@@ -99,7 +99,7 @@ Business English: Making Presentations	 </br>
 Business English: Capstone Project	 </br>
 
 		
-Organizational Leadership Specialization	 </br>	
+**Organizational Leadership Specialization**	 </br>	
 High Perfomance Collaboration: Leadership, Teamwork, and Negotiation	 </br>	
 Leadership Communication for Maximum Impact: Storytelling	 </br>	
 Leadership Through Social Influence 		 </br>
