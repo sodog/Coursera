@@ -327,7 +327,7 @@ Accounting Analytics		</br>
 Business Analytics Capstone 	</br>	
 		
 		
-Data Analysis and Interpretation Specialization		</br>
+**Data Analysis and Interpretation Specialization**		</br>
 Data Management and Visualization	</br>	
 Data Analysis Tools		</br>
 Regression Modeling in Practice 	</br>	
@@ -335,7 +335,7 @@ Machine Learning for Data Analysis 	</br>
 Data Analysis and Interpretation Capstone 	</br>
 
 
-Creative Writing Specialization		</br>
+**Creative Writing Specialization**		</br>
 Creative Writing: The Craft of Plot		</br>
 Creative Writing: The Craft of Character 	</br>	
 Creative Writing: The Craft of Setting and Description	</br>	
@@ -343,7 +343,7 @@ Creative Writing: The Craft of Style		</br>
 Capstone: Your Story		</br>
 
 
-Statistics with Python Specialization		</br>
+**Statistics with Python Specialization	**	</br>
 Understanding and Visualizing Data with Python	</br>	
 Inferential Statistical Analysis with Python	</br>	
 Fitting Statistical Models to Data with Python	</br>	
