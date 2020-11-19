@@ -300,7 +300,7 @@ Business Intelligence Concepts, Tools, and Applications		</br>
 Design and Build a Data Warehouse for Business Intelligence Implementation	</br>	
 	
 	
-Global Procurement and Sourcing Specialization 		</br>
+**Global Procurement and Sourcing Specialization**		</br>
 Procurement & Sourcing Introduction 		</br>
 Procurement Basics 		</br>
 Strategic Sourcing		</br>
@@ -310,7 +310,7 @@ Procurement Negotiation		</br>
 Strategic Procurement and Sourcing Conclusions 	</br>	
 		
 		
-Big Data Specialization		</br>
+**Big Data Specialization**		</br>
 Introduction to Big Data 		</br>
 Big Data Modeling and Management Systems </br>		
 Big Data Integration and Processing 	</br>	
@@ -319,7 +319,7 @@ Graph Analytics for Big Data 		</br>
 Big Data - Capstone Project 		</br>
 		
 		
-Business Analytics Specialization	</br>	
+**Business Analytics Specialization**	</br>	
 Customer Analytics 		</br>
 Operations Analytics 		</br>
 People Analytics 		</br>
@@ -343,7 +343,7 @@ Creative Writing: The Craft of Style		</br>
 Capstone: Your Story		</br>
 
 
-**Statistics with Python Specialization	**	</br>
+**Statistics with Python Specialization**	</br>
 Understanding and Visualizing Data with Python	</br>	
 Inferential Statistical Analysis with Python	</br>	
 Fitting Statistical Models to Data with Python	</br>	
