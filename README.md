@@ -349,18 +349,4 @@ Inferential Statistical Analysis with Python	</br>
 Fitting Statistical Models to Data with Python	</br>	
 
 
-coding
-coding
-coding
-coding
-coding
-coding
-coding
-coding
-Coding
-Coding
-Coding
-Coding
-coding
-coding
 
